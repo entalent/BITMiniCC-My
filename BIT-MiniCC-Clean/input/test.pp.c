@@ -1,0 +1,1 @@
+int main(int a, int b){	if(a > 0) {		b = b + 1;	}	while(b < 0) {		a = a * 2;	}}
